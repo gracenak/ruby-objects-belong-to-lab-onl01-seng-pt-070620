@@ -6,3 +6,5 @@ class Post
     @name = name
   end
   
+end
+  
